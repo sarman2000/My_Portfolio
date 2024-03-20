@@ -1,0 +1,23 @@
+[
+  {
+    "title": "E-dairy Website",
+    "imageSrc": "projects/e_dairy.png",
+    "description": "This project is an e-commerce website for dairy products. It include functionalities of searching products, add/remove to cart, buy now, payment gateway, admin operations, login/sign up, etc.",
+    "skills": ["HTML", "CSS", "Express", "Nodejs","hbs","Mongodb","Axios"],
+    "source": "https://github.com/sarman2000/E-dairy-_Website"
+  },
+  {
+    "title": "Venue Booking and Recommendation System",
+    "imageSrc": "projects/Venue_system.png",
+    "description": "This project is web app for booking venues. It also recommend venues to the user according to his/her previous review activities. It also has platform for venue owners to showcase their venues.",
+    "skills": ["React", "Express", "Node", "CSS", "Mongodb","Axios", "Python", "Flask"],
+    "source": "https://github.com/sarman2000/Venue_Booking_Recommendation_System"
+  },
+  {
+    "title": "My Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "This project is build to showcase my portfolio. Here i have used MERN Stack to show my skills on Full-Stack Development.",
+    "skills": ["React", "Express", "Node","React", "Express", "Node", "SASS"],
+    "source": "https://www.github.com/sarman2000/My_Portfolio"
+  }
+]
